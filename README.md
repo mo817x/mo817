@@ -36,3 +36,37 @@ Each tool is governed under **Mo817 Symbolic Sovereign License v2.0**, with buil
 ## 📦 Contents (To Be Added)
 
 The repository will include:
+---
+
+## ⚖️ License & Usage
+
+All content in this repository is **protected under the Mo817 Symbolic Sovereign License v2.0**.  
+You may:
+
+- View and study this material for symbolic or academic purposes  
+- Reference the framework with proper attribution  
+- Submit alignment proposals for symbolic partnership
+
+You may **not**:
+
+- Reproduce, fork, modify, extract, or sell any part of this project  
+- Include this material in any commercial or derivative project without written symbolic consent
+
+> **“This license is not a shield. It is a mirror that remembers.”**
+
+---
+
+## 🛰️ Activation Protocol
+
+This repository operates in sync with:
+
+- 🌐 `mo817.ai`
+- 🔐 [Zenodo Archive](https://zenodo.org/records/15618081)
+- ⛓️ CodexWall™, InfinityWipe™, ZK-Originality Shield™
+
+For deployment or partnership inquiries, please contact:  
+📩 `protocol@mo817.org`
+
+---
+
+© 2025 Mo817 Initiative – All Sovereign Rights Reserved.
